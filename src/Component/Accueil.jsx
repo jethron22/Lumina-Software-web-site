@@ -9,12 +9,7 @@ import faisons from './faisons.jpg'
 import mission from './mission.jpg'
 import partner from './partner.jpg'
 import computing from './computing.png'
-import imgArtificial from './imgArtificial.jpeg'
-import { useTheme, useStyles } from "@mui/material/styles";
-import useMediaQuery from "@mui/material/useMediaQuery";
-import { Box, CardActionArea } from '@mui/material';
-import { Stack } from '@mui/system';
-import { Divider } from '@mui/material';
+import { CardActionArea } from '@mui/material';
 import {gsap} from 'gsap';
 
 function Accueil() {

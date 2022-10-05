@@ -6,7 +6,7 @@ import Apprentissage from './Apprentissage'
 import Logiciels from './Logiciels'
 import Contacts from './Contacts'
 import Partenaires from  './Partenaires'
-import {BrowserRouter, Router, Routes, Route} from "react-router-dom";
+import {BrowserRouter, Routes, Route} from "react-router-dom";
 import Accueil from './Accueil';
 
 
