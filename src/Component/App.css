@@ -63,11 +63,11 @@
   display: flex;
   background-image: url("./vector1.png");
   background-repeat: no-repeat;
-  background-size: 18em;
+  background-size: 20em;
   /* background-size: 20px; */
   padding: 40px;
   background-position: absolute;
-  max-width: 55em;
+  max-width: 25em;
   background-attachment: fixed;
 
 
@@ -85,9 +85,9 @@
 .open {
   background-image: url("./vector1.png");
   background-repeat: no-repeat;
-  background-size: 18em;
+  background-size: 20em;
   padding: 40px;
-  max-width: 45em;
+  max-width: 30em;
   background-position: bottom;
   background-attachment: fixed;
 }
@@ -95,7 +95,7 @@
 .openi {
   background-image: url("./vector1.png");
   background-repeat: no-repeat;
-  background-size: 18em;
+  background-size: 20em;
   padding: 40px;
   max-width: 45em;
   background-position: right;
